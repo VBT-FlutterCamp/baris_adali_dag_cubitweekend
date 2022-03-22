@@ -1,4 +1,4 @@
-import 'package:cubit_vexana_weekend/feature/model/photo_model.dart';
+import 'package:cubit_vexana_weekend/feature/homeview/model/photo_model.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:vexana/vexana.dart';
 
